@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded',clearBoard,false);
 
 var restart = document.querySelector('#b');
 
